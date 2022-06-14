@@ -3,3 +3,7 @@ powershell -command "Invoke-WebRequest 'https://dl.google.com/tag/s/appguid%3D%7
 start ChromeSetup.exe
 #download openssh
 powershell -command "Invoke-WebRequest 'https://github.com/PowerShell/Win32-OpenSSH/releases/download/v8.9.1.0p1-Beta/OpenSSH-Win32.zip' -OutFile 'OpenSSH-Win32.zip'"
+
+#squid
+powershell -command "Invoke-WebRequest 'https://packages.diladele.com/webproxy/2.2.0.DB38/amd64/release/windows/webproxy-2.2.0.DB38_amd64.msi' -OutFile 'webproxy-2.2.0.DB38_amd64.msi'"
+powershell -command "Invoke-WebRequest 'https://packages.diladele.com/squid/4.14/squid.msi' -OutFile 'squid.msi'"
