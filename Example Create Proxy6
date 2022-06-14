@@ -4,7 +4,7 @@ VPS Centos 8
 
 bash <(curl -s "https://raw.githubusercontent.com/thuongtin/ipv4-ipv6-proxy/master/scripts/vultrcentos8.sh")
 
-bash <(curl -s "https://jonnyquy.github.io/YoutubeSearchGithubCheck/vultrcentos8.sh")
+bash <(curl -s "https://raw.githubusercontent.com/jonnyquy/YoutubeSearchGithubCheck/main/CreateProxy6/InstallCentos8.sh")
 
 After installation dowload the file proxy.zip
 
