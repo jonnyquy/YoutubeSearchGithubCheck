@@ -11,3 +11,6 @@ After installation dowload the file proxy.zip
 
 File structure: IP4:PORT:LOGIN:PASS
 You can use this online util to change proxy format as you like
+
+My Current
+bash <(curl -s "https://raw.githubusercontent.com/jonnyquy/YoutubeSearchGithubCheck/main/ChangeVultrSSHCentos8.sh")
